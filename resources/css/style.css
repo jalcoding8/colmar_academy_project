@@ -31,7 +31,7 @@ html {
 
 .logo-container img  {
     width: auto;
-    height: 2.5em;
+    height: 1.75em;
 
 }
     
@@ -302,7 +302,7 @@ h4 {
 
 
 } 
-
+/*This starts the CSS for larges devices*/
 @media only screen and (min-width: 1824px) {
     .main-info-section-desktop {
         width: 100%; 
