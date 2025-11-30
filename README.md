@@ -21,10 +21,20 @@
 This Project is created with/by:
    *  html5
    *  css3
+   *  Responsive design and Typography
    *  Utilizing Markdown language for the README.md content
+   *  GitHub repository 
    *  Visual Studio Code
    *  Using git commands in bash shell terminal and GitHub
    *  LICENSE 
    *  Stack Overflow
    *  Google
-   * Ialso implementeda favicon image for the tab (a little black griffin)
+   *  I also implemented a favicon image for the tab (a little black griffin)
+
+   ## Provided Resources
+   *  Wireframe
+   *  video/images assets
+
+   ## Provided spec 
+   
+   
