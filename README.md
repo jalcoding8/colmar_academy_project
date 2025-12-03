@@ -35,7 +35,7 @@ This Project is created with/by:
    *  Wireframe
    *  video/images assets
 
-   ## Provided spec
+   ## Provided spec (Wireframe)
    
    <img width="5845" height="6449" alt="image" src="https://github.com/user-attachments/assets/0e74bd4c-c421-4e1c-a2d9-bf20bb3a35af" />
 
