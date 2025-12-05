@@ -29,7 +29,8 @@ This Project is created with/by:
    *  LICENSE 
    *  Stack Overflow
    *  Google
-   *  I also implemented a favicon image for the tab (a little black griffin)
+   *  I also implemented a favicon image for the tab (a little black griffin) <img width="27" height="32" alt="image" src="https://github.com/user-attachments/assets/70926ba4-6af8-4060-b21e-9ee29be19064" />
+
 
    ## Provided Resources
    *  Wireframe
