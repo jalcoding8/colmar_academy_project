@@ -31,6 +31,10 @@ This Project is created with/by:
    *  Google
    *  I also implemented a favicon image for the tab (a little black griffin) below
    *  <img width="27" height="32" alt="image" src="https://github.com/user-attachments/assets/70926ba4-6af8-4060-b21e-9ee29be19064" />
+<<<<<<< HEAD
+=======
+
+>>>>>>> refs/remotes/origin/main
 
    ## Provided Resources
    *  Wireframe
