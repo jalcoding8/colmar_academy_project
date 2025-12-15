@@ -9,8 +9,8 @@
    *  video (mp4)
 
 ## General Information
-   *  This repository was created as a project to build a webpage
-      using html, css, images, and a video 
+   *  This repository was created as a project to 
+      use html, css, images, and a video 
    *  There are several files
    *  Some of the images are two sizes
    *  The README.md utilized the Markdown language syntax
@@ -38,7 +38,7 @@ This Project is created with/by:
 
    ## Provided spec - Wireframe
    
-   <img width="5845" height="6449" alt="image" src="https://github.com/user-attachments/assets/0e74bd4c-c421-4e1c-a2d9-bf20bb3a35af" />
+   <img width="500" height="650" alt="image" src="https://github.com/user-attachments/assets/0e74bd4c-c421-4e1c-a2d9-bf20bb3a35af" />
 
 
 
